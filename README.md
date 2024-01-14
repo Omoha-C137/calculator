@@ -5,7 +5,7 @@ This is a simple calculator application built using HTML, CSS, and JavaScript. I
 1. Clone the repository: `git clone https://github.com/Omoha-C137/calculator.git`
 2. Open `index.html` in your preferred browser.
 
-## Usage
+# Usage
 To use the calculator:
 1. Enter a number in the input field.
 2. Select an operation (addition, subtraction, multiplication, division).
